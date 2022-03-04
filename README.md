@@ -1,4 +1,5 @@
  ## Olá! Me chamo @CarlosGodoi
+ ### Atualmente trabaho como Dev Front-end como Rocket na Empresa GX2
  #### Atualmente estou estudando Javascript, Bootstrap e React
  #### Contate-me através do e-mail: edu-godoi@hotmail.com
 
