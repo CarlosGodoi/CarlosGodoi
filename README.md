@@ -1,6 +1,6 @@
  ## Olá! Me chamo @CarlosGodoi
- ### Atualmente trabaho como Dev Front-end como Rocket na Empresa GX2
- #### Atualmente estou estudando Javascript, Bootstrap e React
+ ### Atualmente trabalho como Dev Front-end na Empresa GX2
+ #### Estudando no momento Javascript, Bootstrap e React
  #### Contate-me através do e-mail: edu-godoi@hotmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgodoi&show_icons=true&theme=merko)](https://github.com/CarlosGodoi/github-readme-stats)
