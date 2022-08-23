@@ -1,4 +1,4 @@
- ## Olá! Me chamo @CarlosGodoi
+ ## Olá, seja Bem vindo! Me chamo @CarlosGodoi
  ### Atualmente trabalho como Dev Front-end jr. na Empresa GX2
  #### Estudando no momento React, typeScript
  #### Contate-me através do e-mail: edu-godoi@hotmail.com
