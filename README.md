@@ -3,7 +3,7 @@
  #### Estudando no momento NextJS
  #### Contate-me através do e-mail: edu-godoi@hotmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgodoi&show_icons=true&theme=ocean_dark)](https://github.com/CarlosGodoi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgodoi&show_icons=true&theme=ocean_dark)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoi&layout=compact&show_icons=true&theme=ocean_dark)](https://github.com/CarlosGodoi/github-readme-stats)
 <div dir="auto"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
