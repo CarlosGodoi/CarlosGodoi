@@ -4,7 +4,7 @@
  #### Contate-me através do e-mail: edu-godoi@hotmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgodoi&count_private=true&show_icons=true&theme=radical)](https://github.com/CarlosGodoi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoi&show_icons=true&theme=radical)](https://github.com/CarlosGodoi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoi&theme=radical)](https://github.com/CarlosGodoi/github-readme-stats)
 <div dir="auto"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
