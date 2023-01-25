@@ -1,7 +1,8 @@
  ## Olá, seja Bem vindo! Me chamo @CarlosGodoi
+ ## Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por programação
  ### Atualmente trabalho como Dev Front-end jr. na Empresa GX2
- #### Estudando no momento NextJS
- #### Contate-me através do e-mail: edu-godoi@hotmail.com
+ #### Estudando no momento Node JS
+ #### Contate-me através do e-mail: edu-godoi@hotmail.com ou pelo linkedin: https://www.linkedin.com/in/carlosegodoi/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgodoi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/CarlosGodoi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoi&theme=tokyonight&layout=compact)](https://github.com/CarlosGodoi/github-readme-stats)
