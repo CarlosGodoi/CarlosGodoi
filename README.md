@@ -3,10 +3,10 @@
  ### Sou Dev Front-end e nas horas vagas Fullstack
  #### Contate-me através do e-mail: edu-godoi@hotmail.com ou pelo linkedin: https://www.linkedin.com/in/carlosegodoi/
 
-<div dir="auto">
+
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=gruvbox)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=gruvbox)
-</div>
+
 <div dir="auto"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
