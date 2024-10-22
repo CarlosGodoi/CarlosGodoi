@@ -7,10 +7,10 @@
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=gruvbox) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-  <div align="center" >
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?=git,vscode,javascript,typescript,css,html,react,next,tailwind,nodejs,express,docker,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,postgres,linkedin" />
-    </a>
+ <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,postgres"/>
+</a>
   <br />
 
   </div>
