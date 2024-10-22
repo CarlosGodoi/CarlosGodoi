@@ -3,8 +3,8 @@
  ### Sou Dev Front-end e nas horas vagas Fullstack
  #### Contate-me através do e-mail: edu-godoi@hotmail.com ou pelo linkedin: https://www.linkedin.com/in/carlosegodoi/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgodoi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/CarlosGodoi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoi&theme=tokyonight&layout=compact)](https://github.com/CarlosGodoi/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=moonlight)
 <div dir="auto"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
