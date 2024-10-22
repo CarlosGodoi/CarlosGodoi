@@ -3,8 +3,6 @@
  ### Sou Dev Front-end e nas horas vagas Fullstack
  #### Contate-me através do e-mail: edu-godoi@hotmail.com ou pelo linkedin: https://www.linkedin.com/in/carlosegodoi/
 
- ![GitHub Stats](./.github/github-stats.svg)
-
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=gruvbox) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
