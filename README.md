@@ -1,7 +1,6 @@
- ## Olá, seja Bem vindo! Me chamo @CarlosGodoi
- #### Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por programação 🖥.
+ ## Olá, seja Bem vindo!
  #### Sou Dev Front-end, mas nas horas vagas sou Fullstack 😄😄😄
- ##### Contate-me através do e-mail: 📧 edu-godoi@hotmail.com ou pelo linkedin: https://www.linkedin.com/in/carlosegodoi/
+ ##### Contate-me através do e-mail: 📧 edu-godoi@hotmail.com ou pelo linkedin: 🖥 https://www.linkedin.com/in/carlosegodoi/
 
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=2077) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
