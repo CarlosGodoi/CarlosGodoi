@@ -4,7 +4,7 @@
  ##### Contate-me através do e-mail: edu-godoi@hotmail.com ou pelo linkedin: https://www.linkedin.com/in/carlosegodoi/
 
 
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=gruvbox) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=2077) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
  <div align="center" >
