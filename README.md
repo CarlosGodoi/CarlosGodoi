@@ -1,6 +1,6 @@
 ## 👋 Olá, seja bem-vindo(a)!
 
-Sou **Desenvolvedor Front-End** com cerca de **3 anos de experiência**, atuando principalmente com **JavaScript, React e TypeScript**.
+Sou **Desenvolvedor Front-End** com **3 anos de experiência**, atuando principalmente com **JavaScript, React e TypeScript**.
 
 Tenho também experiência como **Fullstack**, desenvolvendo APIs e serviços no backend com **Node.js**, utilizando frameworks como **Express** e **Fastify**.
 
