@@ -1,6 +1,20 @@
- ## Olá, seja Bem vindo!
- #### Sou Dev Front-end, mas nas horas vagas sou Fullstack 😄😄😄
- ##### Contate-me através do e-mail: 📧 edu-godoi@hotmail.com ou pelo linkedin: 🖥 https://www.linkedin.com/in/carlosegodoi/
+## 👋 Olá, seja bem-vindo(a)!
+
+Sou **Desenvolvedor Front-End** com cerca de **3 anos de experiência**, atuando principalmente com **JavaScript, React e TypeScript**.
+
+Tenho também experiência como **Fullstack**, desenvolvendo APIs e serviços no backend com **Node.js**, utilizando frameworks como **Express** e **Fastify**.
+
+### 🚀 Principais tecnologias
+- **Front-end:** React, TypeScript, JavaScript, Tailwind CSS, Material UI, Chakra UI, Axios, React-hook-form  
+- **Validação:** Zod, Yup  
+- **Back-end:** Node.js, Express, Fastify 
+- **Outros:** APIs REST, boas práticas, código limpo
+
+### 📫 Contato
+- 📧 Email: **edu-godoi@hotmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/carlosegodoi](https://www.linkedin.com/in/carlosegodoi)
+
+Sinta-se à vontade para explorar meus repositórios 🚀
 
 
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=2077) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
