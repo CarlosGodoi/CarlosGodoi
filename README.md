@@ -13,6 +13,7 @@ Tenho também experiência como **Fullstack**, desenvolvendo APIs e serviços no
 ### 📫 Contato
 - 📧 Email: **edu-godoi@hotmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/carlosegodoi](https://www.linkedin.com/in/carlosegodoi)
+- 💻​ Portifólio: https://portifolio-v2-coral.vercel.app/
 
 Sinta-se à vontade para explorar meus repositórios 🚀
 
