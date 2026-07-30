@@ -31,7 +31,7 @@ Sinta-se à vontade para explorar meus repositórios 🚀
 
 ##
    <div align="center" >
-   [![trophy](https://github-profile-trophy.vercel.app/?username=carlosgodoi&theme=onedark)](https://github.com/carlosgodoi/github-profile-trophy)
+  (https://github-profile-trophy.vercel.app/?username=carlosgodoi&theme=onedark)](https://github.com/carlosgodoi/github-profile-trophy)
   </div>
 
 
