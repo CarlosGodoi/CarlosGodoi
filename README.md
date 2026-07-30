@@ -31,9 +31,9 @@ Sinta-se à vontade para explorar meus repositórios 🚀
 
 ##
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://baicai.me" alt="trophy" />
-  </a>
+  <a href="https://github.com">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlosgodoi&theme=onedark" alt="trophy" />
+</a>
 </div>
 
 
