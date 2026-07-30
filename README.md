@@ -30,11 +30,11 @@ Sinta-se à vontade para explorar meus repositórios 🚀
  </div>
 
 ##
-   <div align="center" >
+<div align="center">
   <a href="https://github.com">
-  <img src="https://github-profile-trophy.vercel.app/?username=carlosgodoi&theme=onedark" alt="trophy" />
-</a>
+    <img src="https://vercel.app" alt="GitHub Stats" />
+  </a>
+</div>
 
-  </div>
 
 
