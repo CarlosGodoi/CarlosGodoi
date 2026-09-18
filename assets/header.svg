@@ -1,100 +1,234 @@
-<svg>
-<!-- Estilos CSS e Animações Nativas -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 1110" width="1010" height="1110" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplNzcwNDk0Ny1kYjk0LTQxNTAtYjM2My00OTVkMjczYjc0NGMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHD/4SzqsNLVcEreC+w2AfQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplMzY5Y2QxOS1jMmQ4LTQ0M2YtYjI3MS0yOWM1NGIyNGY0ZmJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo6B4+FbrfpnQevjzBlFemygAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggvB5pXaamOF62Mo3GMujgqTtTxmPCXePQiVeyVL+rMRqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaN2/TxDYMlg7eaLfpeJSqpQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDWb1ij5icXeFmFGmDnKlVuWDevCG7OfkfniF2m691camRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmU3NzA0OTQ3LWRiOTQtNDE1MC1iMzYzLTQ5NWQyNzNiNzQ0Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjEyODBmMDBmLTY0M2EtNDc2OS1iOWI1LWU4NmEwYjI0OTA2ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC8HmldpqY4XrYyjcYy6OCpO1PGY8Jd49CJV7JUv6sxGqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggqT10IpbgnnBFFkyaa8f8/s1H1s2wY7PKh7dBoNIBs9uiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg/BCgWg0qCVNiqFPWRzrXjog7hoxpM4HcX1vaBlieiFx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQCS/2QE5kbmpUoZujftl7IBmnIyQYWgqGINXukvh9aXHK+IfetTHqHASJy8ogSBOTa2bsyARGcyWpZf7VancCAo=</c2pa:manifest></metadata>
 <style>
-  /* Estilos base */
+  text { font-family: 'Courier New', Consolas, Monaco, monospace; }
   .bg { fill: #040906; }
-  .border-box { fill: #040906; stroke: #005522; stroke-width: 1.5; rx: 6px; }
-  .border-box-inner { fill: #020503; stroke: #003311; stroke-width: 1; rx: 4px; }
-  .text-matrix { font-family: 'Courier New', Monaco, Consolas, monospace; fill: #00ff66; }
-  .text-dim { fill: #008833; font-family: 'Courier New', Monaco, Consolas, monospace; }
-  .text-bright { fill: #66ff99; font-weight: bold; font-family: 'Courier New', Monaco, Consolas, monospace; }
+  .panel { fill: #050b07; stroke: #0a4a24; stroke-width: 1; }
+  .divider { stroke: #0a4a24; stroke-width: 1; }
+  .text-bright { fill: #7dffb0; font-weight: bold; }
+  .text-matrix { fill: #00ff66; }
+  .text-dim { fill: #3a8a55; }
 
-  /* Animações */
   @keyframes blink {
     0%, 45% { opacity: 1; }
     50%, 100% { opacity: 0; }
   }
   .cursor { animation: blink 0.9s infinite; fill: #00ff66; }
-  .status-pulse { animation: blink 1.8s infinite; }
+  .status-pulse { animation: blink 1.8s infinite; fill: #00ff66; }
 
-  @keyframes matrixDrop {
-    0% { transform: translateY(-120px); opacity: 0; }
-    15% { opacity: 0.4; }
-    85% { opacity: 0.4; }
-    100% { transform: translateY(500px); opacity: 0; }
-  }
-
-  .col-1 { animation: matrixDrop 5s linear infinite; animation-delay: 0s; }
-  .col-2 { animation: matrixDrop 7s linear infinite; animation-delay: 1.5s; }
-  .col-3 { animation: matrixDrop 6s linear infinite; animation-delay: 0.7s; }
-  .col-4 { animation: matrixDrop 8s linear infinite; animation-delay: 2.2s; }
-  .col-5 { animation: matrixDrop 5.5s linear infinite; animation-delay: 3s; }
-
-  /* Barra de Progresso Animada */
   @keyframes fillProgress {
     0% { width: 0px; }
-    50% { width: 840px; }
-    90% { width: 840px; }
-    100% { width: 840px; }
+    60% { width: 926px; }
+    100% { width: 926px; }
   }
   .progress-bar-fill {
-    animation: fillProgress 6s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    animation: fillProgress 4s cubic-bezier(0.4, 0, 0.2, 1) infinite;
     fill: #00ff66;
   }
 </style>
 
+<rect class="bg" x="0" y="0" width="1010" height="790" />
 
-<text x="0" y="68" class="text-dim" font-size="11">
-  Desenvolvedor apaixonado por tecnologia, com foco em criar experiências
-</text>
-<text x="0" y="85" class="text-dim" font-size="11">
-  digitais incríveis. Especializado em Front-End com React, TypeScript
-</text>
-<text x="0" y="102" class="text-dim" font-size="11">
-  e Next.js, e com sólida experiência Fullstack (Node.js, PostgreSQL).
-</text>
+<!-- ===== Barra superior ===== -->
+<rect x="0" y="0" width="1010" height="38" fill="#03100a" stroke="#0a4a24" stroke-width="1" />
+<text x="20" y="24" class="text-dim" font-size="12">● CARLOS@GITHUB <tspan class="text-matrix"> / README</tspan></text>
+<text x="855" y="24" class="text-dim" font-size="11">v1.0.0</text>
+<rect x="905" y="9" width="85" height="20" rx="10" fill="#040906" stroke="#0a4a24" />
+<circle class="status-pulse" cx="920" cy="19" r="4" />
+<text x="933" y="23" class="text-matrix" font-size="10">ONLINE</text>
 
-<!-- Botões / Badges -->
-<g transform="translate(0, 120)">
-  <rect x="0" y="0" width="100" height="24" class="border-box-inner" />
-  <text x="14" y="16" class="text-matrix" font-size="10">🔗 LinkedIn</text>
+<!-- ===== Cabeçalho ===== -->
+<text x="20" y="100" class="text-bright" font-size="34">CARLOS EDUARDO GODOI</text>
+<rect class="cursor" x="470" y="72" width="12" height="30" />
 
-  <rect x="110" y="0" width="100" height="24" class="border-box-inner" />
-  <text x="122" y="16" class="text-matrix" font-size="10">🌐 Portfólio</text>
+<text x="20" y="135" class="text-matrix" font-size="15" font-weight="bold">FRONT-END DEVELOPER  |  FULLSTACK  |  3+ YEARS</text>
 
-  <rect x="220" y="0" width="90" height="24" class="border-box-inner" />
-  <text x="232" y="16" class="text-matrix" font-size="10">✉️ Email</text>
+<text x="20" y="170" class="text-dim" font-size="12.5">Desenvolvedor apaixonado por tecnologia, com foco em criar</text>
+<text x="20" y="192" class="text-dim" font-size="12.5">experiências digitais incríveis. Especializado em Front-End</text>
+<text x="20" y="214" class="text-dim" font-size="12.5">com React, Next.js e TypeScript, e com sólida experiência</text>
+<text x="20" y="236" class="text-dim" font-size="12.5">Fullstack, trabalhando com Node.js, Express e PostgreSQL.</text>
+
+<!-- Botões -->
+<g>
+  <rect x="20" y="260" width="115" height="32" rx="4" fill="none" stroke="#0a4a24" />
+  <text x="36" y="281" class="text-matrix" font-size="11">🔗 LinkedIn</text>
+
+  <rect x="147" y="260" width="115" height="32" rx="4" fill="none" stroke="#0a4a24" />
+  <text x="160" y="281" class="text-matrix" font-size="11">🌐 Portfólio</text>
+
+  <rect x="274" y="260" width="95" height="32" rx="4" fill="none" stroke="#0a4a24" />
+  <text x="290" y="281" class="text-matrix" font-size="11">✉️ Email</text>
 </g>
 
+<!-- Painel TECH STACK -->
+<g>
+  <rect class="panel" x="630" y="50" width="165" height="230" rx="6" />
+  <text x="644" y="74" class="text-bright" font-size="12">TECH STACK</text>
+  <text x="775" y="74" class="text-dim" font-size="11">&lt;/&gt;</text>
+  <line class="divider" x1="644" y1="82" x2="781" y2="82" />
 
-<!-- Arte ASCII Avatar -->
-<g class="text-matrix" font-size="8" opacity="0.85" transform="translate(220, 20)">
-  <text x="20" y="10"> .---. </text>
-  <text x="13" y="22"> /     \   MATRIX</text>
-  <text x="10" y="34">| () () |  PROGRAMMER</text>
-  <text x="13" y="46"> \  ^  /   ONLINE</text>
-  <text x="20" y="58">  ||||| </text>
-</g>
-<text x="15" y="130" class="text-dim" font-size="10" italic="true">"Grandes resultados vêm de pequenos códigos."</text>
+  <text x="644" y="106" class="text-dim" font-size="10">FRONT :</text>
+  <text x="700" y="106" class="text-matrix" font-size="10">React, TS, Next</text>
 
+  <text x="644" y="128" class="text-dim" font-size="10">BACK  :</text>
+  <text x="700" y="128" class="text-matrix" font-size="10">Node, Express</text>
 
-<text x="15" y="25" class="text-matrix" font-size="11">[&gt;] Inicializando ambiente de desenvolvimento... <tspan class="text-bright">OK</tspan></text>
-<text x="15" y="45" class="text-matrix" font-size="11">[&gt;] Carregando React, Next.js, TypeScript e Node.js... <tspan class="text-bright">OK</tspan></text>
-<text x="15" y="65" class="text-matrix" font-size="11">[&gt;] Conectando ao banco de dados PostgreSQL... <tspan class="text-bright">OK</tspan></text>
+  <text x="644" y="150" class="text-dim" font-size="10">DB    :</text>
+  <text x="700" y="150" class="text-matrix" font-size="10">Postgres, MySQL</text>
 
-<!-- Barra de Progresso Animada -->
-<g transform="translate(15, 80)">
-  <rect x="0" y="0" width="840" height="16" fill="#040906" stroke="#005522" rx="3" />
-  <rect class="progress-bar-fill" x="2" y="2" width="0" height="12" rx="2" />
+  <text x="644" y="172" class="text-dim" font-size="10">STYLE :</text>
+  <text x="700" y="172" class="text-matrix" font-size="10">Tailwind, Sass</text>
 </g>
 
+<!-- Painel AVATAR.SYS -->
+<g>
+  <rect class="panel" x="815" y="50" width="165" height="230" rx="6" />
+  <text x="829" y="74" class="text-bright" font-size="12">AVATAR.SYS</text>
+  <line class="divider" x1="829" y1="82" x2="966" y2="82" />
 
-<!-- Projeto 2: Portfólio Pessoal -->
-<g transform="translate(445, 0)">
-  <rect class="border-box-inner" x="0" y="0" width="425" height="95" />
-  <text x="15" y="25" class="text-bright" font-size="13">💻 Portfólio Pessoal</text>
-  <text x="15" y="48" class="text-dim" font-size="11">Portfólio moderno apresentando experiência e projetos.</text>
-  <text x="15" y="73" class="text-matrix" font-size="10">[Next.js] [Tailwind CSS] [TypeScript]</text>
+  <g class="text-matrix" font-size="9" opacity="0.9">
+    <text x="875" y="106" text-anchor="middle"> .---. </text>
+    <text x="875" y="118" text-anchor="middle"> /     \ </text>
+    <text x="875" y="130" text-anchor="middle">| () () |</text>
+    <text x="875" y="142" text-anchor="middle"> \  ^  / </text>
+    <text x="875" y="154" text-anchor="middle">  |||||  </text>
+  </g>
+  <text x="875" y="172" text-anchor="middle" class="text-dim" font-size="9">MATRIX PROGRAMMER</text>
+  <text x="875" y="184" text-anchor="middle" class="text-dim" font-size="9">ONLINE</text>
+
+  <text x="875" y="230" text-anchor="middle" class="text-dim" font-size="9">"Grandes resultados vêm</text>
+  <text x="875" y="244" text-anchor="middle" class="text-dim" font-size="9">de pequenos códigos."</text>
 </g>
+
+<!-- ===== Painel SYSTEM INFO ===== -->
+<g>
+  <rect class="panel" x="20" y="345" width="470" height="260" rx="6" />
+  <text x="34" y="369" class="text-bright" font-size="13">⚙ SYSTEM INFO</text>
+  <line class="divider" x1="34" y1="378" x2="476" y2="378" />
+
+  <text x="34" y="404" class="text-dim" font-size="11">USER</text>
+  <text x="140" y="404" class="text-dim" font-size="11">: <tspan class="text-matrix">carlosgodoi</tspan></text>
+
+  <text x="34" y="428" class="text-dim" font-size="11">ROLE</text>
+  <text x="140" y="428" class="text-dim" font-size="11">: <tspan class="text-matrix">Front-End Developer</tspan></text>
+
+  <text x="34" y="452" class="text-dim" font-size="11">EXPERIENCE</text>
+  <text x="140" y="452" class="text-dim" font-size="11">: <tspan class="text-matrix">3+ Years</tspan></text>
+
+  <text x="34" y="476" class="text-dim" font-size="11">LOCATION</text>
+  <text x="140" y="476" class="text-dim" font-size="11">: <tspan class="text-matrix">Brazil 🇧🇷</tspan></text>
+
+  <text x="34" y="500" class="text-dim" font-size="11">STATUS</text>
+  <circle class="status-pulse" cx="146" cy="496" r="4" />
+  <text x="158" y="500" class="text-matrix" font-size="11">Online</text>
+
+  <text x="34" y="548" class="text-dim" font-size="10.5" font-style="italic">"Código é a minha forma de transformar</text>
+  <text x="34" y="564" class="text-dim" font-size="10.5" font-style="italic">ideias em realidade."</text>
+</g>
+
+<!-- ===== Painel TECH STACK CATEGORIES ===== -->
+<g>
+  <rect class="panel" x="510" y="345" width="480" height="260" rx="6" />
+  <text x="524" y="369" class="text-bright" font-size="13">▤ TECH STACK CATEGORIES</text>
+  <line class="divider" x1="524" y1="378" x2="976" y2="378" />
+
+  <text x="524" y="400" class="text-dim" font-size="9" font-weight="bold">FRONT-END</text>
+  <text x="524" y="420" class="text-matrix" font-size="10">• React</text>
+  <text x="524" y="438" class="text-matrix" font-size="10">• TypeScript</text>
+  <text x="524" y="456" class="text-matrix" font-size="10">• Next.js</text>
+  <text x="524" y="474" class="text-matrix" font-size="10">• Tailwind CSS</text>
+
+  <text x="640" y="400" class="text-dim" font-size="9" font-weight="bold">BACK-END</text>
+  <text x="640" y="420" class="text-matrix" font-size="10">• Node.js</text>
+  <text x="640" y="438" class="text-matrix" font-size="10">• Express</text>
+  <text x="640" y="456" class="text-matrix" font-size="10">• Fastify</text>
+  <text x="640" y="474" class="text-matrix" font-size="10">• Prisma</text>
+
+  <text x="756" y="400" class="text-dim" font-size="9" font-weight="bold">DATABASE</text>
+  <text x="756" y="420" class="text-matrix" font-size="10">• PostgreSQL</text>
+  <text x="756" y="438" class="text-matrix" font-size="10">• MySQL</text>
+
+  <text x="872" y="400" class="text-dim" font-size="9" font-weight="bold">TOOLS</text>
+  <text x="872" y="420" class="text-matrix" font-size="10">• Git / GitHub</text>
+  <text x="872" y="438" class="text-matrix" font-size="10">• Docker</text>
+  <text x="872" y="456" class="text-matrix" font-size="10">• VS Code</text>
+  <text x="872" y="474" class="text-matrix" font-size="10">• Jest / Vitest</text>
+</g>
+
+<!-- ===== Painel CURRENT PROCESS ===== -->
+<g>
+  <rect class="panel" x="20" y="620" width="970" height="150" rx="6" />
+  <text x="34" y="644" class="text-bright" font-size="12">▣ CURRENT PROCESS</text>
+  <text x="900" y="644" class="text-dim" font-size="10">{ 127.0.0.1 }</text>
+  <line class="divider" x1="34" y1="652" x2="976" y2="652" />
+
+  <text x="34" y="676" class="text-matrix" font-size="12">[&gt;] Inicializando ambiente de desenvolvimento... <tspan class="text-bright">OK</tspan></text>
+  <text x="34" y="698" class="text-matrix" font-size="12">[&gt;] Carregando React, Next.js, TypeScript e Node.js... <tspan class="text-bright">OK</tspan></text>
+  <text x="34" y="720" class="text-matrix" font-size="12">[&gt;] Conectando ao banco de dados... <tspan class="text-bright">OK</tspan></text>
+  <text x="34" y="742" class="text-matrix" font-size="12">[&gt;] Pronto para codar! <tspan class="text-bright">100%</tspan></text>
+  <rect class="cursor" x="210" y="730" width="9" height="14" />
+
+  <g transform="translate(34, 754)">
+    <rect x="0" y="0" width="936" height="10" fill="none" stroke="#0a4a24" rx="2" />
+    <rect class="progress-bar-fill" x="2" y="2" width="0" height="6" rx="1" />
+  </g>
+</g>
+
+<!-- ===== Painel PROJETOS EM DESTAQUE ===== -->
+<g>
+  <rect class="panel" x="20" y="790" width="970" height="255" rx="6" />
+  <text x="34" y="814" class="text-bright" font-size="13">PROJETOS EM DESTAQUE</text>
+  <text x="956" y="815" class="text-dim" font-size="12">🔗</text>
+  <line class="divider" x1="34" y1="822" x2="976" y2="822" />
+
+  <!-- Card LibriX -->
+  <g>
+    <rect class="panel" x="34" y="838" width="451" height="175" rx="6" />
+    <text x="50" y="864" class="text-bright" font-size="13">📖 LibriX</text>
+    <text x="50" y="888" class="text-dim" font-size="11">Sistema de gerenciamento de biblioteca com</text>
+    <text x="50" y="906" class="text-dim" font-size="11">autenticação, controle de acesso e integração</text>
+    <text x="50" y="924" class="text-dim" font-size="11">com inteligência artificial.</text>
+
+    <rect x="50" y="960" width="55" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="58" y="975" class="text-matrix" font-size="9">Next.js</text>
+
+    <rect x="113" y="960" width="44" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="121" y="975" class="text-matrix" font-size="9">React</text>
+
+    <rect x="165" y="960" width="71" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="173" y="975" class="text-matrix" font-size="9">TypeScript</text>
+
+    <rect x="244" y="960" width="55" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="252" y="975" class="text-matrix" font-size="9">Node.js</text>
+
+    <rect x="307" y="960" width="71" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="315" y="975" class="text-matrix" font-size="9">PostgreSQL</text>
+  </g>
+
+  <!-- Card Portfólio -->
+  <g>
+    <rect class="panel" x="504" y="838" width="451" height="175" rx="6" />
+    <text x="520" y="864" class="text-bright" font-size="13">💻 Portfólio</text>
+    <text x="520" y="888" class="text-dim" font-size="11">Meu portfólio pessoal desenvolvido com Next.js,</text>
+    <text x="520" y="906" class="text-dim" font-size="11">apresentando minha experiência, projetos e</text>
+    <text x="520" y="924" class="text-dim" font-size="11">tecnologias.</text>
+
+    <rect x="520" y="960" width="55" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="528" y="975" class="text-matrix" font-size="9">Next.js</text>
+
+    <rect x="583" y="960" width="44" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="591" y="975" class="text-matrix" font-size="9">React</text>
+
+    <rect x="635" y="960" width="71" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="643" y="975" class="text-matrix" font-size="9">TypeScript</text>
+
+    <rect x="714" y="960" width="82" height="22" rx="4" fill="none" stroke="#0a4a24" />
+    <text x="722" y="975" class="text-matrix" font-size="9">Tailwind CSS</text>
+  </g>
+</g>
+
+<!-- ===== Rodapé ===== -->
+<line class="divider" x1="20" y1="1065" x2="990" y2="1065" />
+<text x="20" y="1088" class="text-dim" font-size="10">CARLOS EDUARDO GODOI <tspan class="text-dim">|</tspan> FRONT-END DEVELOPER</text>
+<text x="990" y="1088" text-anchor="end" font-size="10"><tspan class="text-matrix">GITHUB</tspan><tspan class="text-dim"> • </tspan><tspan class="text-matrix">LINKEDIN</tspan><tspan class="text-dim"> • </tspan><tspan class="text-matrix">PORTFÓLIO</tspan></text>
 
 </svg>
