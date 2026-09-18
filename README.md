@@ -22,11 +22,29 @@ Sinta-se à vontade para explorar meus repositórios 🚀
  | ----------- | ----------- |
 
 <div align="center" >
+ <p>Front-end</p>
   <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,postgres"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,next,tailwind,sass,figma,materialui,styledcomponents,vercel,vite"/>
   </a>
   <br />
 
+  <p>Backend</p>
+  <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs"/>
+  </a>
+  <br />
+
+  <p>Database</p>
+  <a href="https://skillicons.dev"   >
+    <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+  </a>
+  <br />
+
+  <p>Tools and Test</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=insominia,postman,docker,git,github,vscode,jest,vitest"/>
+  </a>
+  <br />
  </div>
 
 ##
