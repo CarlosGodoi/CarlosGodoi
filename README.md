@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- SEU SVG ANIMADO DA MATRIX -->
-  <div align="center">
-  <img src="./assets/header.svg" alt="Carlos Eduardo Godoi - Matrix Terminal Header" width="100%" />
+  <img src="assets/header.svg" alt="Carlos Eduardo Godoi - Matrix Terminal Header" width="100%" />
 </div>
 
   <br />
