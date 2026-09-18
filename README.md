@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Carlos Eduardo Godoi - Matrix Terminal Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/CarlosGodoi/CarlosGodoi/main/assets/header.svg?sanitize=true" alt="Carlos Eduardo Godoi - Matrix Terminal Header" width="100%" />
 </div>
 
   <br />
