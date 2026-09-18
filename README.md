@@ -42,7 +42,7 @@ Sinta-se à vontade para explorar meus repositórios 🚀
 
   <p>Tools and Test</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=insominia,postman,docker,git,github,vscode,jest,vitest"/>
+    <img src="https://skillicons.dev/icons?i=postman,docker,git,github,vscode,jest,vitest"/>
   </a>
   <br />
  </div>
