@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Carlos Eduardo Godoi - Matrix Terminal Header" width="100%" />
+  <img src="./assets/header.svg" alt="Carlos Eduardo Godoi - Matrix Terminal Header" width="100%" />
 </div>
 
   <br />
@@ -37,5 +37,5 @@ Desenvolvedor apaixonado por tecnologia, com foco em criar experiências digitai
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=matrix&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosGodoiB&show_icons=true&theme=matrix&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
