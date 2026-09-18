@@ -29,7 +29,7 @@ REST e serviços backend utilizando **Node.js, Express e Fastify**.
 ### Back-End
 
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,prisma,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs" />
 </div>
 
 ### Database
