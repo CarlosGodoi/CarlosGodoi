@@ -1,45 +1,43 @@
 <div align="center">
-  <img 
-    src="./assets/matrix-profile.png" 
-    alt="Carlos Eduardo Godoi - Front-End Developer"
-    width="100%"
-  />
+  <!-- SEU SVG ANIMADO DA MATRIX -->
+  <div align="center">
+  <img src="./assets/header.svg" alt="Carlos Eduardo Godoi - Matrix Terminal Header" width="100%" />
 </div>
 
-<br />
+  <br />
+  <br />
 
-## Sobre mim
-
-Sou **Desenvolvedor Front-End** com **3 anos de experiência**, atuando
-principalmente com **JavaScript, React, TypeScript e Next.js**.
-
-Também possuo experiência como **Fullstack Developer**, desenvolvendo APIs
-REST e serviços backend utilizando **Node.js, Express e Fastify**.
+  <!-- BADGES DE CONTATO -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00ff66" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
-## Tech Stack
+### 👨‍💻 Sobre Mim
 
-### Front-End
+Desenvolvedor apaixonado por tecnologia, com foco em criar experiências digitais incríveis. Especializado em Front-End com **React**, **TypeScript** e **Next.js**, e com sólida experiência em desenvolvimento Fullstack (**Node.js**, **Express**, **PostgreSQL**).
 
-<div>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,vite,html,css,tailwind,sass,materialui,styledcomponents,figma" />
-</div>
+---
 
-### Back-End
+### 🛠️ Tech Stack & Ferramentas
 
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs" />
-</div>
+- **Front-end:** React, Next.js, TypeScript, Tailwind CSS, Sass
+- **Back-end:** Node.js, Express, Fastify, Prisma
+- **Bancos de Dados:** PostgreSQL, MySQL
+- **Ferramentas:** Git, Docker, VS Code
 
-### Database
+---
 
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</div>
+### 📊 Estatísticas do GitHub
 
-### Tools & Testing
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jest,vitest" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=matrix&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
