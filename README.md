@@ -1,9 +1,5 @@
 <div align="center">
-  <img 
-    src="./assets/matrix-profile.png" 
-    alt="Carlos Eduardo Godoi - Front-End Developer"
-    width="100%"
-  />
+  <img src="./assets/header.svg" alt="Carlos Eduardo Godoi Matrix Terminal Header" width="100%" />
 </div>
 
 <br />
