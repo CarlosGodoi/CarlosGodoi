@@ -21,7 +21,7 @@ Sinta-se à vontade para explorar meus repositórios 🚀
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosgodoi&theme=2077) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosgodoi&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-<div align="center" >
+<div >
  <p>Front-end</p>
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,next,tailwind,sass,figma,materialui,styledcomponents,vercel,vite"/>
