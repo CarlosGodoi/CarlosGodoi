@@ -13,7 +13,6 @@
 [ ABOUT ](#about) •
 [ SKILLS ](#skills) •
 [ ENGINEERING ](#engineering) •
-[ PROJECTS ](#projects) •
 [ STATS ](#github-stats) •
 [ CONTACT ](#contact)
 
@@ -134,138 +133,6 @@ necessidades do produto.
 
 ---
 
-<a id="currently-building"></a>
-
-## `> ./currently-building`
-
-### 🚀 Atualmente construindo
-
-**LibriX**
-
-Sistema de gerenciamento de biblioteca desenvolvido com foco em
-autenticação, controle de acesso, gerenciamento de livros e empréstimos,
-além de integração com IA.
-
-**Portfolio v2**
-
-Portfólio pessoal desenvolvido com Next.js, Tailwind CSS e Shadcn UI,
-com foco em apresentação profissional, projetos e experiência técnica.
-
-### Próximos objetivos
-
-- Evoluir projetos pessoais.
-- Aprimorar arquitetura e testes.
-- Explorar recursos modernos do ecossistema React.
-- Melhorar performance e experiência do usuário.
-- Continuar aprofundando conhecimentos em desenvolvimento Fullstack.
-
----
-
-<a id="projects"></a>
-
-## `> ./projects`
-
-### 📚 LibriX
-
-Sistema de gerenciamento de biblioteca desenvolvido com foco em
-arquitetura, autenticação, controle de acesso e integração com IA.
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL`
-
-**Principais funcionalidades**
-
-- Autenticação e autorização baseada em roles.
-- Gerenciamento de usuários.
-- Gerenciamento de livros.
-- Controle de empréstimos.
-- APIs REST.
-- Sistema de recomendações de livros.
-- Chat integrado com IA.
-- Interface responsiva.
-
-**Links**
-
-[Frontend](COLOQUE_AQUI_O_LINK_DO_FRONTEND) •
-[Backend](COLOQUE_AQUI_O_LINK_DO_BACKEND)
-
----
-
-### 💻 Portfolio v2
-
-Meu portfólio pessoal desenvolvido com foco em apresentar minha
-experiência, projetos e conhecimentos técnicos.
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Shadcn UI`
-
-**Destaques**
-
-- Design responsivo.
-- Componentização.
-- Internacionalização.
-- Interface moderna.
-- Apresentação de projetos.
-- Integração com recursos de IA.
-
-🌐 [Acessar Portfolio](https://portifolio-v2-coral.vercel.app/)
-
----
-
-<a id="architecture"></a>
-
-## `> ./architecture`
-
-### LibriX Architecture
-
-```text
-                         ┌─────────────────────┐
-                         │      NEXT.JS        │
-                         │   React / TypeScript │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │      REST API       │
-                         │   Node.js / Express │
-                         └──────────┬──────────┘
-                                    │
-                  ┌─────────────────┼─────────────────┐
-                  │                 │                 │
-                  ▼                 ▼                 ▼
-           ┌────────────┐    ┌────────────┐    ┌────────────┐
-           │   PRISMA   │    │    AUTH    │    │  AI LAYER  │
-           └──────┬─────┘    └────────────┘    └────────────┘
-                  │
-                  ▼
-           ┌────────────┐
-           │ POSTGRESQL │
-           └────────────┘
-```
-
-### Architecture & Development
-
-O projeto foi estruturado buscando separar responsabilidades entre
-interface, camada de API, autenticação, persistência de dados e recursos
-de inteligência artificial.
-
-Entre os principais conceitos utilizados estão:
-
-- Clean Architecture
-- SOLID
-- REST API
-- RBAC
-- Prisma ORM
-- PostgreSQL
-- Autenticação baseada em cookies
-- Integração com serviços de IA
-- Testes unitários
-- Separação entre Front-End e Back-End
-
----
-
 <a id="github-stats"></a>
 
 ## `> ./github-stats`
@@ -274,13 +141,13 @@ Entre os principais conceitos utilizados estão:
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=CarlosGodoiB&show_icons=true&theme=matrix&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=CarlosGodoi&show_icons=true&theme=matrix&hide_border=true"
   alt="GitHub Stats"
 />
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoiB&layout=compact&theme=matrix&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoi&layout=compact&theme=matrix&hide_border=true"
   alt="Top Languages"
 />
 
@@ -291,7 +158,7 @@ Entre os principais conceitos utilizados estão:
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosGodoiB&theme=2077"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosGodoi&theme=2077"
   alt="GitHub Profile Details"
 />
 
@@ -337,15 +204,15 @@ oportunidades profissionais, fique à vontade para entrar em contato.
 
 <div align="center">
 
-```text
-> system.status
-
-CARLOS SYSTEM
-STATUS: ONLINE
-
-"Keep learning. Keep building. Keep improving."
-
-< / >
+  ```text
+  > system.status
+  
+  CARLOS SYSTEM
+  STATUS: ONLINE
+  
+  "Keep learning. Keep building. Keep improving."
+  
+  < / >
 ```
 
 </div>
