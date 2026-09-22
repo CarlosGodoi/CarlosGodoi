@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/carlos-godoi-matrix-readme.svg"
+    src="./assets/carlos-godoi-matrix-readme-animated.svg"
     alt="Carlos Eduardo Godoi - Front-End Developer"
     width="100%"
   />
