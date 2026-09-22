@@ -141,13 +141,12 @@ necessidades do produto.
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=CarlosGodoi&show_icons=true&theme=matrix&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api?username=CarlosGodoi&show_icons=true&theme=ocean_dark&hide_border=true"
   alt="GitHub Stats"
 />
-
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGodoi&layout=compact&theme=matrix&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=CarlosGodoi&layout=compact&theme=ocean_dark&hide_border=true"
   alt="Top Languages"
 />
 
@@ -158,7 +157,7 @@ necessidades do produto.
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosGodoi&theme=2077"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosGodoi&theme=tokyonight"
   alt="GitHub Profile Details"
 />
 
