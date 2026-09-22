@@ -58,7 +58,7 @@ necessidades do produto.
 
 <div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,prisma,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs" />
 
 </div>
 
